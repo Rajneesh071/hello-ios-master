@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'macOS 10.13'
+  vmImage: 'macos-10.14'
 
 steps:
 - task: Xcode@5
